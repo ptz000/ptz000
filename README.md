@@ -2,17 +2,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Senior+Software+Developer+%40+Optimizely;15%2B+years+handcrafting+the+web;React+%C2%B7+TypeScript+%C2%B7+.NET+Core;Performance+%26+Accessibility+nerd" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Senior+Software+Developer+%40+Optimizely;15%2B+years+handcrafting+the+web;React+%C2%B7+TypeScript+%C2%B7+.NET+Core;Performance+%26+Accessibility+nerd" alt="Senior Software Developer @ Optimizely. 15+ years handcrafting the web. React, TypeScript, .NET Core. Performance and accessibility nerd." />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/petraplatz"><img src="https://img.shields.io/badge/LinkedIn-petraplatz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/petraplatz"><img src="https://img.shields.io/badge/LinkedIn-petraplatz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: petraplatz" /></a>
   <img src="https://komarev.com/ghpvc/?username=ptz000&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" alt="" />
 </p>
 
 ### 🙋‍♂️ About me
@@ -23,32 +23,31 @@ Off-screen: wild nature 🌲, music discovery 🎧, slow veg food 🍝
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,vite,webpack,nodejs,express,graphql,prisma,cs,dotnet,vitest,cypress&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,vite,webpack,nodejs,express,graphql,prisma,cs,dotnet,vitest,cypress&perline=10" alt="HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Redux, Vite, Webpack, Node.js, Express, GraphQL, Prisma, C#, .NET, Vitest, Cypress" />
   <br />
-  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,githubactions,vercel,netlify,git,pnpm,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,githubactions,vercel,netlify,git,pnpm,figma&perline=10" alt="Azure, Google Cloud, AWS, Docker, GitHub Actions, Vercel, Netlify, Git, pnpm, Figma" />
   <br />
-  <img src="https://skillicons.dev/icons?i=ps,ai,vscode" /><img src="assets/ai-tools.svg" alt="Claude, GitHub Copilot, OpenCode" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,vscode" alt="Photoshop, Illustrator, VS Code" /><img src="assets/ai-tools.svg" alt="Claude, GitHub Copilot, OpenCode" />
 </p>
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptz000&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptz000&theme=github_dark" alt="GitHub profile details and contributions in the last year" />
 </p>
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptz000&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptz000&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptz000&theme=github_dark" alt="Top languages by commit" />
 </p>
 
 ### 🔥 Streak
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ptz000&theme=dark&hide_border=true&background=0D1117" />
+    <img src="https://streak-stats.demolab.com?user=ptz000&theme=dark&hide_border=true&background=0D1117" alt="GitHub contribution streak stats" />
   </a>
 </p>
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy-mu.vercel.app/?username=ptz000&theme=onedark&no-frame=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy-mu.vercel.app/?username=ptz000&theme=onedark&no-frame=true&margin-w=8&column=7" alt="GitHub profile trophies" />
 </p>
 
 ### 🐍 Contributions
@@ -56,14 +55,14 @@ Off-screen: wild nature 🌲, music discovery 🎧, slow veg food 🍝
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptz000/ptz000/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptz000/ptz000/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ptz000/ptz000/output/github-snake.svg" />
+    <img alt="Snake animation eating the GitHub contribution grid" src="https://raw.githubusercontent.com/ptz000/ptz000/output/github-snake.svg" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="" />
 </p>
