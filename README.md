@@ -23,9 +23,11 @@ Off-screen: wild nature 🌲, music discovery 🎧, slow veg food 🍝
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,vite,webpack,nodejs,express,graphql,prisma,cs,dotnet,jest,vitest,cypress&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,vite,webpack,nodejs,express,graphql,prisma,cs,dotnet,vitest,cypress&perline=10" />
   <br />
-  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,kubernetes,githubactions,vercel,netlify,git,pnpm,figma,ps,ai,vscode,webstorm,rider&perline=10" />
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,githubactions,vercel,netlify,git,pnpm,figma&perline=10" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=ps,ai,vscode" /><img src="assets/ai-tools.svg" alt="Claude, GitHub Copilot, OpenCode" />
 </p>
 
 ### 📊 Stats
