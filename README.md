@@ -2,11 +2,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+%26+CMS+Developer;Optimizely+%7C+Next.js+%7C+Astro;Micro-frontends+enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Senior+Software+Developer+%40+Optimizely;15%2B+years+handcrafting+the+web;React+%C2%B7+TypeScript+%C2%B7+.NET+Core;Performance+%26+Accessibility+nerd" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/petraplatz"><img src="https://img.shields.io/badge/LinkedIn-petraplatz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=ptz000&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
@@ -14,9 +15,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" />
 </p>
 
+### 🙋‍♂️ About me
+
+Senior Software Developer @ **Optimizely CMS**, Berlin 🇩🇪 · from Italy 🇮🇹  
+**Frontend** lover for 15+ years, handcrafting the web, caring about **performance** and **accessibility**.  
+Off-screen: wild nature 🌲, music discovery 🎧, slow veg food 🍝
+
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,vite,nodejs,cs,dotnet,html,css,tailwind,git,docker,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,vite,webpack,nodejs,express,graphql,prisma,cs,dotnet,jest,vitest,cypress&perline=10" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,kubernetes,githubactions,vercel,netlify,git,pnpm,figma,ps,ai,vscode,webstorm,rider&perline=10" />
 </p>
 
 ### 📊 Stats
