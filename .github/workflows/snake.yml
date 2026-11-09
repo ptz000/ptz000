@@ -15,6 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -22,6 +25,11 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#F7DF1E&color_dots=#ebedf0,#fff3b0,#ffe066,#f7c948,#d4a017
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#F7DF1E&color_dots=#161b22,#5c4d00,#9c8200,#d4b000,#F7DF1E
+
+      - name: Add month and weekday labels
+        run: |
+          sudo chown -R "$(id -u)" dist
+          node scripts/add-snake-labels.js
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v5
